@@ -1,0 +1,9 @@
+Building Equicoin
+
+See doc/readme-qt.rst for instructions on building Equicoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Equicoin.
+
+See doc/build-*.txt for instructions on building equicoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Equicoin.
